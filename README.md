@@ -5,4 +5,5 @@ A powerful framework for front-end
 [Tiwa Ui Wiki](https://github.com/Tiwa-Team/TiwaUI/wiki)
 
 ## developers
-[Pouria](https://github.com/arazhdarloo)
+[Alireza Azhdarloo](https://github.com/arazhdarloo)
+[Pouria Pakdaman](https://github.com/pouria0015)
