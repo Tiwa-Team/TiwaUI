@@ -1,5 +1,5 @@
 # Tiwa Ui
-A powerful framework for front-end
+A powerful framework for front-end, Developed with sass.
 
 ## Documentation
 [Tiwa Ui Wiki](https://github.com/Tiwa-Team/TiwaUI/wiki)
